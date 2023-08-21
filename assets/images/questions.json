@@ -1,29 +1,108 @@
 [
   {
-    "title": "Reverse Linked List",
-    "description": "Reverse a singly linked list.",
-    "answerUrls": [
-      "https://leetcode.com/problems/reverse-linked-list-solution-1/",
-      "https://leetcode.com/problems/reverse-linked-list-solution-2/"
-    ],
+    "title": "459. Repeated Substring Pattern",
+    "description": "459. Repeated Substring Pattern",
+    "answerUrls": ["https://leetcode.com/problems/repeated-substring-pattern/solutions"],
+    "questionUrl": "https://leetcode.com/problems/repeated-substring-pattern/",
     "difficulty": "Easy"
   },
   {
+    "title": "21. Merge Two Sorted Lists",
+    "description": "21. Merge Two Sorted Lists",
+    "answerUrls": ["https://leetcode.com/problems/merge-two-sorted-lists/solutions"],
+    "questionUrl": "https://leetcode.com/problems/merge-two-sorted-lists/",
+    "difficulty": "Easy"
+  },
+  {
+    "title": "83. Remove Duplicates from Sorted List",
+    "description": "83. Remove Duplicates from Sorted List",
+    "answerUrls": ["https://leetcode.com/problems/remove-duplicates-from-sorted-list/solutions"],
+    "questionUrl": "https://leetcode.com/problems/remove-duplicates-from-sorted-list/",
+    "difficulty": "Easy"
+  },
+  {
+    "title": "141. Linked List Cycle",
+    "description": "141. Linked List Cycle",
+    "answerUrls": ["https://leetcode.com/problems/linked-list-cycle/solutions"],
+    "questionUrl": "https://leetcode.com/problems/linked-list-cycle/",
+    "difficulty": "Easy"
+  },
+  {
+    "title": "160. Intersection of Two Linked Lists",
+    "description": "160. Intersection of Two Linked Lists",
+    "answerUrls": ["https://leetcode.com/problems/intersection-of-two-linked-lists/solutions"],
+    "questionUrl": "https://leetcode.com/problems/intersection-of-two-linked-lists/",
+    "difficulty": "Easy"
+  },
+  {
+    "title": "203. Remove Linked List Elements",
+    "description": "203. Remove Linked List Elements",
+    "answerUrls": ["https://leetcode.com/problems/remove-linked-list-elements/solutions"],
+    "questionUrl": "https://leetcode.com/problems/remove-linked-list-elements/",
+    "difficulty": "Easy"
+  },
+  {
+    "title": "206. Reverse Linked List",
+    "description": "206. Reverse Linked List",
+    "answerUrls": ["https://leetcode.com/problems/reverse-linked-list/solutions"],
+    "questionUrl": "https://leetcode.com/problems/reverse-linked-list/",
+    "difficulty": "Easy"
+  },
+  {
+    "title": "234. Palindrome Linked List",
+    "description": "234. Palindrome Linked List",
+    "answerUrls": ["https://leetcode.com/problems/palindrome-linked-list/solutions"],
+    "questionUrl": "https://leetcode.com/problems/palindrome-linked-list/",
+    "difficulty": "Easy"
+  },
+  {
+    "title": "705. Design HashSet",
+    "description": "705. Design HashSet",
+    "answerUrls": ["https://leetcode.com/problems/design-hashset/solutions"],
+    "questionUrl": "https://leetcode.com/problems/design-hashset/",
+    "difficulty": "Easy"
+  },
+  {
+    "title": "706. Design HashMap",
+    "description": "706. Design HashMap",
+    "answerUrls": ["https://leetcode.com/problems/design-hashmap/solutions"],
+    "questionUrl": "https://leetcode.com/problems/design-hashmap/",
+    "difficulty": "Easy"
+  },
+  {
+    "title": "876. Middle of the Linked List",
+    "description": "876. Middle of the Linked List",
+    "answerUrls": ["https://leetcode.com/problems/middle-of-the-linked-list/solutions"],
+    "questionUrl": "https://leetcode.com/problems/middle-of-the-linked-list/",
+    "difficulty": "Easy"
+  },
+  {
+    "title": "1290. Convert Binary Number in a Linked List to Integer",
+    "description": "1290. Convert Binary Number in a Linked List to Integer",
+    "answerUrls": ["https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/solutions"],
+    "questionUrl": "https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/",
+    "difficulty": "Easy"
+  },
+  {
+    "title": "1474. Delete N Nodes After M Nodes of a Linked List",
+    "description": "1474. Delete N Nodes After M Nodes of a Linked List",
+    "answerUrls": ["https://leetcode.com/problems/delete-n-nodes-after-m-nodes-of-a-linked-list/solutions"],
+    "questionUrl": "https://leetcode.com/problems/delete-n-nodes-after-m-nodes-of-a-linked-list/",
+    "difficulty": "Easy"
+  },
+
+  {
     "title": "Merge Two Sorted Lists",
-    "description": "Merge two sorted linked lists and return it as a sorted list.",
-    "answerUrls": [
-      "https://leetcode.com/problems/merge-linked-list-solution-1/",
-      "https://leetcode.com/problems/merge-linked-list-solution-2/"
-    ],
+    "description": "Merge Two Sorted Lists",
+    "answerUrls": ["https://leetcode.com/problems/merge-linked-list-solution-1/solutions"],
+    "questionUrl": "https://leetcode.com/problems/merge-linked-list-solution-1/",
     "difficulty": "Medium"
   },
   {
     "title": "Merge Two Sorted Lists-123",
-    "description": "Merge two sorted linked lists and return it as a sorted list.",
-    "answerUrls": [
-      "https://leetcode.com/problems/merge-linked-list-solution-1/",
-      "https://leetcode.com/problems/merge-linked-list-solution-2/"
-    ],
+    "description": "Merge Two Sorted Lists-123",
+    "answerUrls": ["https://leetcode.com/problems/merge-linked-list-solution-1/solutions"],
+    "questionUrl": "https://leetcode.com/problems/merge-linked-list-solution-1/",
     "difficulty": "Medium"
   }
 ]
