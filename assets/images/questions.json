@@ -1,0 +1,29 @@
+[
+  {
+    "title": "Reverse Linked List",
+    "description": "Reverse a singly linked list.",
+    "answerUrls": [
+      "https://leetcode.com/problems/reverse-linked-list-solution-1/",
+      "https://leetcode.com/problems/reverse-linked-list-solution-2/"
+    ],
+    "difficulty": "Easy"
+  },
+  {
+    "title": "Merge Two Sorted Lists",
+    "description": "Merge two sorted linked lists and return it as a sorted list.",
+    "answerUrls": [
+      "https://leetcode.com/problems/merge-linked-list-solution-1/",
+      "https://leetcode.com/problems/merge-linked-list-solution-2/"
+    ],
+    "difficulty": "Medium"
+  },
+  {
+    "title": "Merge Two Sorted Lists-123",
+    "description": "Merge two sorted linked lists and return it as a sorted list.",
+    "answerUrls": [
+      "https://leetcode.com/problems/merge-linked-list-solution-1/",
+      "https://leetcode.com/problems/merge-linked-list-solution-2/"
+    ],
+    "difficulty": "Medium"
+  }
+]
