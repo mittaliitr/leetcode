@@ -55439,7 +55439,7 @@ zm(a){$.a5l().a.set(this,a)}}
 A.e3.prototype={}
 A.C5.prototype={
 L(a,b){var s=4290581044,r=A.abd(null,new A.tG(A.aB([50,new A.E(s),100,new A.E(s),200,new A.E(s),300,new A.E(s),400,new A.E(s),500,new A.E(s),600,new A.E(s),700,new A.E(s),800,new A.E(s),900,new A.E(s)],t.S,t.iO),s),A.abs()),q=t.N
-return new A.tE(new A.C6(A.a([A.aB(["title","Introduction to Linked Lists","url","https://example.com/intro_linked_lists"],q,q),A.aB(["title","Common Linked List Problems","url","https://example.com/common_linked_list_problems"],q,q),A.aB(["title","Sample Article","url","package:question_app/LinkedList_Patternl.html"],q,q)],t.A7),null),"LeetCode Linked List Questions",r,null)}}
+return new A.tE(new A.C6(A.a([A.aB(["title","Introduction to Linked Lists","url","https://example.com/intro_linked_lists"],q,q),A.aB(["title","Common Linked List Problems","url","https://example.com/common_linked_list_problems"],q,q),A.aB(["title","Sample Article","url","https://mittaliitr.github.io/leetcode/LinkedList_Patternl.html"],q,q)],t.A7),null),"LeetCode Linked List Questions",r,null)}}
 A.C6.prototype={
 L(a,b){var s,r,q,p,o=null,n=A.a5z(A.f_("LeetCode Linked List Questions",o,o,o,o,o,o)),m=A.a([A.f_("Linked List Resources",o,o,o,A.mb(o,o,o,o,o,o,o,o,o,o,o,24,o,B.b8,o,o,!0,o,o,o,o,o,o,o,o),o,o),A.iI(o,20,o)],t.E)
 for(s=this.c,r=0;r<3;++r){q=s[r]
